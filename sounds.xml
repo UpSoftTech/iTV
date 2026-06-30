@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.itos" name="iTOS7 Repository" version="1.0.0" provider-name="Don">
+  <extension point="kodi.addon.repository">
+    <info compressed="false">https://UpSoftTech.github.io/iTV/addons.xml</info>
+    <checksum>https://UpSoftTech.github.io/iTV/addons.xml.md5</checksum>
+    <datadir zip="true">https://UpSoftTech.github.io/iTV/</datadir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>iTOS7 Sounds</summary>
+    <platform>all</platform>
+  </extension>
+</addon>
